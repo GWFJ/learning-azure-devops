@@ -1,0 +1,2 @@
+# learning-azure-devops
+Web Apps, Azure Functions, and AKS clusters, all using the Azure Pipelines workflow. Topics that we'll cover include: * Deploying an ASP.NET Application and Database to Azure App Services * Deploying to AKS, Azure Functions, and Azure Container Registry * Using Jenkins and Azure DevOps together * Azure DevOps CLI * Pipeline Build Templates * Self-Hosted Build Agents * Deployment Groups * Using Terraform in the Pipeline to create infrastructure in Azure * Build Artifacts
